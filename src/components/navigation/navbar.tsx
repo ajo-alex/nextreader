@@ -220,3 +220,4 @@ export function Navbar({ currentUser, allUsers, unreadNotificationCount = 0 }: N
     </header>
   );
 }
+

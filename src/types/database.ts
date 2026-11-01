@@ -268,3 +268,4 @@ export interface ReportRecord {
   reported_user?: Profile;
   reported_book?: Book;
 }
+

@@ -121,3 +121,4 @@ export function LoanCardClient({ loan, isBorrower }: LoanCardClientProps) {
     </>
   );
 }
+

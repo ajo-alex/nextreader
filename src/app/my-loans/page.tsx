@@ -94,3 +94,4 @@ export default async function MyLoansPage({ searchParams }: MyLoansPageProps) {
     </div>
   );
 }
+

@@ -113,3 +113,4 @@ export function BookCard({ book, isFavorited = false }: BookCardProps) {
     </div>
   );
 }
+

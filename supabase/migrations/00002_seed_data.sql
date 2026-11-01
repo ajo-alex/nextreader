@@ -673,3 +673,4 @@ VALUES
   ('a0000000-0000-0000-0000-000000000001', 'loan_reminder', 'Upcoming return due date', 'Your loan of "Project Hail Mary" is due in 16 days.', '/my-loans', NULL),
   ('a0000000-0000-0000-0000-000000000001', 'welcome', 'Welcome to NextReader!', 'Start exploring local books in Kakkanad or list your first shelf item.', '/discover', NOW() - INTERVAL '2 days')
 ON CONFLICT DO NOTHING;
+

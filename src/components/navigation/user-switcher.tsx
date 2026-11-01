@@ -105,3 +105,4 @@ export function UserSwitcher({ currentUser, allUsers }: UserSwitcherProps) {
     </div>
   );
 }
+

@@ -78,3 +78,4 @@ export function DisputeResolutionClient({ dispute }: DisputeResolutionClientProp
     </div>
   );
 }
+

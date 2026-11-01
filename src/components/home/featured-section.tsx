@@ -86,3 +86,4 @@ export function FeaturedSection({ books, wishlistBookIds = [] }: FeaturedSection
     </section>
   );
 }
+

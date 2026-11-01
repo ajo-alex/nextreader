@@ -273,3 +273,4 @@ export default async function BookDetailsPage({ params }: BookPageProps) {
     </div>
   );
 }
+

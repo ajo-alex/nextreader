@@ -591,3 +591,4 @@ ON user_roles FOR ALL USING (is_admin(auth.uid()));
 -- Audit logs: Only admins view audit logs
 CREATE POLICY "Admins view audit logs" 
 ON audit_logs FOR SELECT USING (is_admin(auth.uid()));
+
